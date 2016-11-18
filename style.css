@@ -1,0 +1,56 @@
+  * {
+  font-family: 'Georgia', 'Times', serif;
+  color:white;
+}
+
+h1 {
+    color: #FFEBCD;
+    background-color: SeaGreen;
+    font-size:50px;
+    margin-left:25px;
+    margin-right:25px;
+}
+
+a{
+  color: SeaGreen;
+  text-decoration: none;
+}
+
+img {
+  border-radius: 10%;
+  width:25%;
+  padding-right:25px;
+  padding-bottom:15px;
+  float:left;
+  
+  
+}
+ul li
+{
+list-style-type: none;
+
+}
+
+p
+{
+font-size:15px;
+padding:5px;
+}
+
+
+
+div
+{
+background-color:black;
+border:5px 25px 5px 25px;
+padding:10px 10px 10px 10px;
+margin:5px 25px 5px 25px;
+}
+
+.footer
+{
+	 background-color: SeaGreen;
+	 border:0px;
+     padding:5px; 
+     margin:5px 25px 5px 25px;
+}
