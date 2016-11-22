@@ -1,3 +1,4 @@
+
   * {
   font-family: 'Georgia', 'Times', serif;
   color:white;
@@ -7,7 +8,7 @@ h1 {
     color: #FFEBCD;
     background-color: SeaGreen;
     font-size:50px;
-    margin-left:25px;
+    margin-left:0px;
     margin-right:25px;
 }
 
@@ -53,4 +54,22 @@ margin:5px 25px 5px 25px;
 	 border:0px;
      padding:5px; 
      margin:5px 25px 5px 25px;
+}
+
+#form
+{
+
+	background-color:black;
+	
+}
+
+input
+{
+		color:black;
+}
+
+ textarea
+{
+	color:black;
+     width:300px;
 }
