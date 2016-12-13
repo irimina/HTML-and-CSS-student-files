@@ -1,3 +1,6 @@
+/* begin CSS code below */
+
+/* the wrapper div contains the entire page */
 #wrapper {
   width: auto;
   height: auto;
@@ -5,12 +8,12 @@
   border: none;
 }
 
-
   * {
   font-family: 'Georgia', 'Times', serif;
   color:white;
 }
 
+/* main heading of the webpage*/
 h1 {
     color: #FFEBCD;
     background-color: SeaGreen;
@@ -19,11 +22,13 @@ h1 {
     margin-right:25px;
 }
 
+
 a{
   color: SeaGreen;
   text-decoration: none;
 }
 
+/* main image of the webpage */
 img {
   border-radius: 20%;
   width:25%;
@@ -46,7 +51,6 @@ padding:5px;
 }
 
 
-
 div
 {
 background-color:black;
@@ -55,6 +59,7 @@ padding:10px 10px 10px 10px;
 margin:5px 25px 5px 25px;
 }
 
+/* footer class for the footer div */
 .footer
 {
 	 background-color: SeaGreen;
@@ -78,5 +83,7 @@ input
  textarea
 {
 	color:black;
-     width:300px;
+         width:300px;
 }
+
+/* end of the CSS code */
